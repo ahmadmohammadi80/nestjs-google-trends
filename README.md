@@ -40,9 +40,12 @@ This project is licensed under the MIT License.
 
 If you encounter any bugs or have feature requests, feel free to:
 
-Open an issue on [GitHub](#)
+Open an issue on [GitHub](https://github.com/ahmadmohammadi80/nestjs-google-trends/issues)
+
 Or contact us directly via email:
+
 📧 info@ahmadmohammadi.com
+
 We appreciate your feedback and contributions! 💙
 
 ## Installation
