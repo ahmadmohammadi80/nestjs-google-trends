@@ -1,0 +1,30 @@
+{
+  "name": "nestjs-google-trends",
+  "version": "1.0.1",
+  "description": "Google Trends API integration for NestJS",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "nestjs",
+    "google-trends",
+    "api",
+    "typescript"
+  ],
+  "author": "Ahmad Mohammadi.com",
+  "license": "MIT",
+  "dependencies": {
+    "google-trends-api": "^1.0.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ahmadmohammadi80/nestjs-google-trends.git"
+},
+"bugs": {
+  "url": "https://github.com/ahmadmohammadi80/nestjs-google-trends/issues"
+},
+"homepage": "https://github.com/ahmadmohammadi80/nestjs-google-trends#readme"
+}
